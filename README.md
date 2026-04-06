@@ -78,5 +78,24 @@ LANGSMITH_TRACING=true (optional)
 
 Traditional DAGs (Directed Acyclic Graphs) limitation... LangGraph allows for **cycles**, **persistence**, and **human-in-the-loop** interactions which are essential for building robust AI agents that can backtrack, correct errors, and maintain complex state over time.
 
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have a pattern or workflow you'd like to share:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingPattern`)
+3. Commit your Changes (`git commit -m 'Add some AmazingPattern'`)
+4. Push to the Branch (`git push origin feature/AmazingPattern`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` (if added) for more information.
+
+---
+*Created with ❤️ by [Shayannoore](https://github.com/Shayannoore)*
+
 ---
 
